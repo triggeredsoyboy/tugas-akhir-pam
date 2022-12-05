@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "377337940957",
+    "project_id": "al-ghadim-project",
+    "storage_bucket": "al-ghadim-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377337940957:android:a5b9bcef60cc7b9955c434",
+        "android_client_info": {
+          "package_name": "com.triggered.soyboy.my_presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377337940957-5hginndibhum2gnigf3pem2gn7viehq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75F_2V7-7sRN6xFJDXW1DLMVmGpkwL5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377337940957-5hginndibhum2gnigf3pem2gn7viehq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377337940957-6vdbm3at7dsbpnu1vc846dmmd7pmghhg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.triggered.soyboy.myPresence"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

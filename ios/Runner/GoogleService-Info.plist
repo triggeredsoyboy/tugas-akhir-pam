@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>377337940957-6vdbm3at7dsbpnu1vc846dmmd7pmghhg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.377337940957-6vdbm3at7dsbpnu1vc846dmmd7pmghhg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBdl4_XuaAS7CDEV2UBZKOJuyUFyjMdmE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>377337940957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.triggered.soyboy.myPresence</string>
+	<key>PROJECT_ID</key>
+	<string>al-ghadim-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>al-ghadim-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:377337940957:ios:a92b9fb71c2de5d955c434</string>
+</dict>
+</plist>
